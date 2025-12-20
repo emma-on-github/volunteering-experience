@@ -1,7 +1,3 @@
-### Emma Louise Hicks
-
-### Mental Health Campaigner
-
 ### [Rethink Mental Illness](https://www.rethink.org/)
 
 **Oxford Campaigners for Change (July 2020 – January 2022)**
