@@ -1,4 +1,4 @@
-### [Rethink Mental Illness](https://www.rethink.org/)
+#### Rethink Mental Illness:
 
 **Oxford Campaigners for Change (July 2020 – January 2022)**
 -	Exchanged innovative ideas around mental health and inclusion, networked, and took positive action to change perceptions and improve people’s lives
@@ -11,13 +11,14 @@
 **Website Development Panel Volunteer (September 2017)**
 -	Advised on the website development of [Mental Health & Money Advice Service](https://www.mentalhealthandmoneyadvice.org/) providing service user feedback within set timeframe
 
+---
 
-### [Guideposts Trust](https://guideposts.org.uk/)
+#### Guideposts Trust:
 
 **Volunteer Administrator (July 2019 – Nov 2020)**
--	Contributed towards [blog posts](https://guideposts.org.uk/pauls-blogs/) on Autism Spectrum Condition, Mental Health, LGBTQI+ and Photography
+-	Contributed towards [Guideposts Trust - blog posts](https://guideposts.org.uk/pauls-blogs/) on Autism Spectrum Condition, Mental Health, LGBTQI+ and Photography
 -	Collated, transformed, and presented open-source data within Air Table to identify future opportunities and partnerships
--	Effective time management and organisational skills to undertake online research and create content for development into [webpages](https://guideposts.org.uk/connecting-with-others/making-connections-from-home/)
+-	Effective time management and organisational skills to undertake online research and create content for development into [webpages]( https://guideposts.org.uk/connecting-with-others/making-connections-from-home/)
 -	Collaborated with colleagues whilst planning Pride Month activities, utilising Microsoft Teams
 -	Reviewed future publications and provided feedback within set time scales
 -	Supported team members and provided refreshments, entertainment, and a safe space to talk for members of the public to address loneliness within the community
@@ -33,8 +34,9 @@
 -	Designed event posters and leaflets within MS Publisher for public displays
 -	Photographed the Mates ‘N’ Dates LGBT group called Mingle at Oxford Pride in 2017
 
+---
 
-### [Oxford Health NHS Foundation Trust](https://www.oxfordhealth.nhs.uk/)
+#### Oxford Health NHS Foundation Trust:
 
 **Minor Injuries Unit Volunteer (November 2018 – March 2019)**
 -	Replenished the medical supplies within the department so the team could focus on patient care
@@ -49,18 +51,21 @@
 -	Managed MS Excel database of stallholder’s attending community events to assist with resource planning
 -	Designed and carried out customer surveys utilising SurveyMonkey and then presented the findings within MS Excel to contribute towards future goal setting
 -	Participated at LGBT Equality Network meetings with staff and volunteers
--	[Oxford Health NHS Foundation Trust - International volunteer day: Volunteer showcase (5th December 2018)](https://www.oxfordhealth.nhs.uk/news/international-volunteer-day-volunteer-showcase/)
+-	[Oxford Health NHS Foundation Trust - Start a conversation about mental health on time to talk day (4th February 2019)](https://www.oxfordhealth.nhs.uk/news/start-a-conversation-about-mental-health-on-time-to-talk-day/)
+-	[Oxford Health NHS Foundation Trust - International volunteer day: Volunteer showcase (5th December 2018)] (https://www.oxfordhealth.nhs.uk/news/international-volunteer-day-volunteer-showcase/)
 -	[Oxford Health NHS Foundation Trust - Volunteers’ week: Volunteer showcase (6th June 2018)](https://www.oxfordhealth.nhs.uk/news/volunteers-week-volunteer-showcase/)
 
+---
 
-### [Restore](https://www.restore.org.uk/)
+#### Restore:
 
 **Steering Group Committee Member (November 2017 – March 2018)**
 -	Contributed towards the development of Celebrating Our Lives 2, a mental health awareness event which took place on 13th March 2018 in Banbury, Oxfordshire, UK
 -	[Oxford Health NHS Foundation Trust - Celebrating our lives: workshop & information stall for Oxfordshire mental health service users (14th February 2018)](https://www.oxfordhealth.nhs.uk/news/celebrating-our-lives-workshop-information-stall-for-oxfordshire-mental-health-service-users/)
 
+---
 
-### [Time To Change](https://www.time-to-change.org.uk/)
+#### Time To Change:
 
 **Champion (December 2014 to March 2020)**
 -	Assisted West Oxfordshire District Council, Witney Town Council, Oxford Health NHS Foundation Trust, Abingdon & Witney College and Guideposts Trust to coordinate and participate at Time To Change events within the community
@@ -70,7 +75,8 @@
 -	Participated at many events in Oxfordshire including Oxford Pride working alongside many great charities and organisations talking about mental health
 -	Coordinated Time To Change training sessions within the community and liaised with participates, venues and head office
 -	Promoted training sessions via social media and local networking groups
--	[Oxford Health NHS Foundation Trust - Start a conversation about mental health on time to talk day (4th February 2019)](https://www.oxfordhealth.nhs.uk/news/start-a-conversation-about-mental-health-on-time-to-talk-day/)
 -	[Oxford Health NHS Foundation Trust - Help break the silence around mental health (1st February 2018)](https://www.oxfordhealth.nhs.uk/news/help-break-the-silence-around-mental-health/)
+-	[Oxford Health NHS Foundation Trust - Start a conversation about mental health on time to talk day (4th February 2019)](https://www.oxfordhealth.nhs.uk/news/start-a-conversation-about-mental-health-on-time-to-talk-day/)
 -	[The Oxford Mail - Mental health ‘superhero’s’ wanted (31st October 2017)](https://www.oxfordmail.co.uk/news/news_bites/15630693.mental-health-superheroes-wanted/)
+
 
