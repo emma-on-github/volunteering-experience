@@ -1,8 +1,3 @@
----
-title: Mental Health Campaigner
-layout: default
----
-
 ### [Rethink Mental Illness](https://www.rethink.org/)
 
 **Oxford Campaigners for Change (July 2020 – January 2022)**
