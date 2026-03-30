@@ -73,8 +73,8 @@
 - Managed MS Excel database of stallholder’s attending community events to assist with resource planning
 - Designed and carried out customer surveys utilising SurveyMonkey and then presented the findings within MS Excel to contribute towards future goal setting
 - Participated at LGBT Equality Network meetings with staff and volunteers
-- [Volunteers’ week: Volunteer showcase – 6 June 2018](https://www.oxfordhealth.nhs.uk/news/volunteers-week-volunteer-showcase/)
 - [International volunteer day: Volunteer showcase – 5 December 2018](https://www.oxfordhealth.nhs.uk/news/international-volunteer-day-volunteer-showcase/)
+- [Volunteers’ week: Volunteer showcase – 6 June 2018](https://www.oxfordhealth.nhs.uk/news/volunteers-week-volunteer-showcase/)
 
 ---
 
@@ -89,8 +89,8 @@
 ### LGBTQI+ Campaigner
 **January 2017 – Present**
 
-#### TransGuide UK
-- Established and maintain [TransGuide UK](https://emma-on-github.github.io/transguide-uk/), an accessible online hub providing clear information on healthcare pathways, legal rights, name changes, support organisations, and myth‑busting resources for transgender people and allies in the UK
+#### [TransGuide UK](https://emma-on-github.github.io/transguide-uk)
+- Established and maintain TransGuide UK, an accessible online hub providing clear information on healthcare pathways, legal rights, name changes, support organisations, and myth‑busting resources for transgender people and allies in the UK
 - Launched on 27 March 2026
 
 #### [Bishopsgate Institute](https://www.bishopsgate.org.uk/)
@@ -99,7 +99,7 @@
 - Witney Town Council and the Rainbow (Pride) Flag — LGBTM/441 (2018–2021)
 - Oxford Pride Photographs — LGBTM/525 (2016–2017)
 
-#### Guideposts Trust
+#### [Guideposts Trust](https://guideposts.org.uk/)
 - Taking Pride in Volunteering Blog Post – 23 June 2020 
 
 #### Oxford Mail Coverage
