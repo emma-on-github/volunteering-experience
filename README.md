@@ -1,7 +1,3 @@
----
-title: Emma Hicks
-description: Volunteering Experience
----
 
 ## [Oxfam](https://www.oxfam.org.uk/)
 ### Retail Volunteer (Witney Shop)
