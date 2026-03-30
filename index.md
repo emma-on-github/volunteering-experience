@@ -99,7 +99,7 @@ description: Volunteering Experience
 
 #### [Bishopsgate Institute](https://www.bishopsgate.org.uk/)
 - Photographs taken at Witney Pride 2025 — LGBTM/598 (2025)
-- People’s Pride Archive (2022
+- People’s Pride Archive (2022)
 - Witney Town Council and the Rainbow (Pride) Flag — LGBTM/441 (2018–2021)
 - Oxford Pride Photographs — LGBTM/525 (2016–2017)
 
