@@ -1,8 +1,7 @@
-
 ---
 
-## [Oxfam Shop Witney](https://www.oxfam.org.uk/)
-### Retail Volunteer  
+## [Oxfam](https://www.oxfam.org.uk/)
+### Retail Volunteer (Witney)
 **October 2023 – Present**
 - Utilising Cybertill Electronic Point of Sale (EPOS) and Gift Aid Retail Software to support daily store operations (tills, banking, volunteer hours, Gift Aid, labels)
 - Opening tills, completing banking tasks, and carrying out reconciliation procedures
@@ -46,8 +45,7 @@
 - Supported team members and provided refreshments, entertainment, and a safe space to talk for members of the public to address loneliness within the community
 - Coordinated our attendance at several pride events in Oxfordshire and liaised with team members
 - Supported service users on a 1-2-1 basis with activities and during outdoor visits within the community whilst at the GLADS Project
-- [Guideposts Trust - Making connections from home](https://guideposts.org.uk/connecting-with-others/making-connections-from-home/)
-- [Guideposts Trust - Paul’s blogs](https://guideposts.org.uk/pauls-blogs/)
+
 
 ### Volunteer Administrator  
 **February 2016 – December 2017**
@@ -85,9 +83,7 @@
 ## [Restore](https://www.restore.org.uk/)
 ### Steering Group Committee Member  
 **November 2017 – March 2018**
-- Contributed towards the development of Celebrating Our Lives 2, a mental health awareness event which took place on 13th March 2018 in Banbury, Oxfordshire
-- [Celebrating our lives: workshop & information stall – 14 February 2018](https://www.oxfordhealth.nhs.uk/news/celebrating-our-lives-workshop-information-stall-for-oxfordshire-mental-health-service-users/)
-
+- Contributed towards the development of Celebrating Our Lives 2, a mental health awareness event which took place on 13th March 2018 in Banbury, Oxfordshire, UK
 
 ---
 
@@ -99,14 +95,14 @@
 - Established and maintain [TransGuide UK](https://emma-on-github.github.io/transguide-uk/), an accessible online hub providing clear information on healthcare pathways, legal rights, name changes, support organisations, and myth‑busting resources for transgender people and allies in the UK
 - Launched on 27 March 2026
 
-#### Bishopsgate Institute Archives
-- [Photographs taken at Witney Pride 2025 — LGBTM/598 (2025)](https://www.bishopsgate.org.uk/archives)
-- [People’s Pride Archive (2022)](https://www.bishopsgate.org.uk/peoples-pride-archive)
-- [Witney Town Council and the Rainbow (Pride) Flag — LGBTM/441 (2018–2021)](https://www.bishopsgate.org.uk/archives)
-- [Oxford Pride Photographs — LGBTM/525 (2016–2017)](https://www.bishopsgate.org.uk/archives)
+#### [Bishopsgate Institute Archives](https://www.bishopsgate.org.uk/)
+- Photographs taken at Witney Pride 2025 — LGBTM/598 (2025)
+- People’s Pride Archive (2022
+- Witney Town Council and the Rainbow (Pride) Flag — LGBTM/441 (2018–2021)
+- Oxford Pride Photographs — LGBTM/525 (2016–2017)
 
 #### Guideposts Trust
-- [Taking Pride in Volunteering – 23 June 2020](https://guideposts.org.uk/2020/06/volunteering-at-guideposts-and-promoting-mental-health-lgbt-awareness/)
+- Taking Pride in Volunteering Blog Post – 23 June 2020 
 
 #### Oxford Mail Coverage
 - [Councils in Witney will fly Pride flag – 8 May 2019](https://www.oxfordmail.co.uk/news/17625366.councils-witney-will-fly-pride-flag-oxfordshire-festivals/)
@@ -132,8 +128,3 @@
 - [Start a conversation about mental health – 4 February 2019](https://www.oxfordhealth.nhs.uk/news/start-a-conversation-about-mental-health-on-time-to-talk-day/)
 - [Help break the silence around mental health – 1 February 2018](https://www.oxfordhealth.nhs.uk/news/help-break-the-silence-around-mental-health/)
 - [Mental health ‘superhero’s’ wanted – 31 October 2017](https://www.oxfordmail.co.uk/news/news_bites/15630693.mental-health-superheroes-wanted/)
-
-
-
-
-
