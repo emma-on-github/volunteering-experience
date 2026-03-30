@@ -130,9 +130,11 @@
 - Participated at many events in Oxfordshire including Oxford Pride working alongside many great charities and organisations talking about mental health
 - Coordinated Time To Change training sessions within the community and liaised with venues, participates and head office
 - Promoted training sessions via social media and local networking groups
-- [Mental health ‘superhero’s’ wanted – 31 October 2017](https://www.oxfordmail.co.uk/news/news_bites/15630693.mental-health-superheroes-wanted/)
-- [Help break the silence around mental health – 1 February 2018](https://www.oxfordhealth.nhs.uk/news/help-break-the-silence-around-mental-health/)
 - [Start a conversation about mental health – 4 February 2019](https://www.oxfordhealth.nhs.uk/news/start-a-conversation-about-mental-health-on-time-to-talk-day/)
+- [Help break the silence around mental health – 1 February 2018](https://www.oxfordhealth.nhs.uk/news/help-break-the-silence-around-mental-health/)
+- [Mental health ‘superhero’s’ wanted – 31 October 2017](https://www.oxfordmail.co.uk/news/news_bites/15630693.mental-health-superheroes-wanted/)
+
+
 
 
 
