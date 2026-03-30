@@ -93,7 +93,7 @@
 - Established and maintain [TransGuide UK](https://emma-on-github.github.io/transguide-uk/), an accessible online hub providing clear information on healthcare pathways, legal rights, name changes, support organisations, and myth‑busting resources for transgender people and allies in the UK
 - Launched on 27 March 2026
 
-#### [Bishopsgate Institute Archives](https://www.bishopsgate.org.uk/)
+#### [Bishopsgate Institute](https://www.bishopsgate.org.uk/)
 - Photographs taken at Witney Pride 2025 — LGBTM/598 (2025)
 - People’s Pride Archive (2022
 - Witney Town Council and the Rainbow (Pride) Flag — LGBTM/441 (2018–2021)
