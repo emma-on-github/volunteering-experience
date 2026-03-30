@@ -1,7 +1,7 @@
 ---
 
-## [Oxfam](https://www.oxfam.org.uk/)
-### Retail Volunteer (Witney)
+## [Oxfam](https://www.oxfam.org.uk/) 
+### Retail Volunteer (Witney Shop)
 **October 2023 – Present**
 - Utilising Cybertill Electronic Point of Sale (EPOS) and Gift Aid Retail Software to support daily store operations (tills, banking, volunteer hours, Gift Aid, labels)
 - Opening tills, completing banking tasks, and carrying out reconciliation procedures
